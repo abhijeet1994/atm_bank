@@ -1,0 +1,5 @@
+Name,card_no,account_no,pin,saving_acc,checking_acc,s_bal,c_bal,is_card_blocked
+Ab Mishra,1111,1234,1111,1,0,688,1000,0
+Ab Mishra1,2222,1234,1111,1,1,1000,1000,0
+AM,3333,1234,1111,1,1,1000,1000,0
+AAM,3433,1234,1111,1,1,1000,1000,0
